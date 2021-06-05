@@ -4,7 +4,7 @@ public class Conta {
     private int agencia;
     private String tipo;
 
-    public Conta( int numero, int agencia, Sting tipo){
+    public Conta( int numero, int agencia, String tipo){
         super();
         this.numero = numero;
         this.agencia = agencia;
